@@ -2,7 +2,7 @@
 - Bu README dosyası,  Devlet Tiyatroları web sitesi için temel HTML yapısını içerir. 
 - Bu web sitesi,  Devlet Tiyatroları'nın etkinliklerini ve bilgilerini içermektedir.
 
-<img src="/gif/web.mp4" alt=""/>
+<img src="/gif/web.mp4" alt="">
 
 # Kullanılan Teknolojiler
 - Bu web sitesi, aşağıdaki teknolojileri kullanmaktadır:
